@@ -8,7 +8,7 @@
     background-color: #f2f2f2;
     z-index: 0;
   }
-  .title{
+  .feynman-title{
     text-align: center;
     font-weight: bold;
     line-height: 1.15;
@@ -17,12 +17,12 @@
     margin-top: 100px;
     margin-bottom: 70px;
   }
-  .subtitle{
+  .feynman-subtitle{
     font-weight: normal;
     line-height: 51px;
     font-size: 36px;
   }
-  .link{
+  .feynman-link{
     text-decoration: none;
     position: absolute;
     font-weight: normal;
@@ -34,12 +34,12 @@
     margin-right: 48px;
     z-index: -2;
   }
-  .link:hover{
+  .feynman-link:hover{
     color: rgb(250, 248, 248);
     background: #0a8bf5;
     border-radius: 5px;
   }
-  .background-image{
+  .feynman-background-image{
     display: flex;
     position: absolute;
     object-fit: cover;
@@ -48,11 +48,4 @@
     left: 0;
     bottom: 0;
     z-index: -1;
-  }
-  .table__cell_theme_dark {
-    color: white;
-    width: 200px;
-    margin-right: 0;
-    margin-top: 80px;
-    list-style: none;
   }

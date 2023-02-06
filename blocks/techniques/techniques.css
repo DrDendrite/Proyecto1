@@ -13,7 +13,7 @@
     font-family: 'Helvetica Neue', Arial, sans-serif;
     
   }
-  .section-title{
+  .techniques-section-title{
     width: 60%;
     text-align: center;
     margin-top: 100px;
@@ -22,25 +22,25 @@
     font-size: 60px;
     font-weight: bold;
   }
-  .section-subtitle{
+  .techniques-section-subtitle{
     width: 652px;
     text-align: center;
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
   }
-  .cards{
+  .techniques-cards{
     width: 920px;
     margin-top: -20px;
     display: flex;
     flex-wrap: wrap;
     }
-    .cards-item{
+    .techniques-cards-item{
     width: 240px;
     margin-right: 66px;
     
     }
-    .cards-image{
+    .techniques-cards-image{
     height: 160px;
     width: 160px;
     margin-top: 60px;
@@ -49,13 +49,13 @@
     margin-right: 40px;
     border-radius: 50%;
     }
-  .cards-title{
+  .techniques-cards-title{
     text-align: center;
     line-height: 1.15;
     font-size: 24px;
     font-weight: bold;
   }
-  .cards-description{
+  .techniques-cards-description{
     text-align: center;
     margin-top: 20px;
     line-height: 23px;
