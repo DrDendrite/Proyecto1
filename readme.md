@@ -14,5 +14,5 @@
 * Creacion de listas y mas
 * Creacion de archivo readme.md
 
-    <img src="../web_project_1_es-main/images/GIF/dog.gif" width="150" height="190">
+    <img src="https://media.tenor.com/1FssLxKWc3sAAAAC/the-office-dog.gif" width="250" height="190">
     
