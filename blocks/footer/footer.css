@@ -50,11 +50,20 @@
      list-style: none;
      color: white;
    }
+   .footer-column-link:hover{
+    color: #0985eb;
+   }
    .facebook{
     width: 16px;
     height: 16px;
   }
+  .facebook:hover{
+    color: #0985eb;
+  }
   .instagram{
     width: 16px;
     height: 16px; 
+  }
+  .instagram:hover{
+    color: #0985eb;
   }

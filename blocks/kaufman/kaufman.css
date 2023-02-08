@@ -1,4 +1,4 @@
-@keyframes rotation {
+@-webkit-keyframes rotation {
   from{
       rotate: 0deg;
   }
@@ -65,5 +65,7 @@
     height: 690px;
     right: -184px;
     z-index: -2;
+    animation: rotation 20s infinite;
+    -webkit-animation: rotation 20s infinite;
     animation: rotation 20s infinite;
   }

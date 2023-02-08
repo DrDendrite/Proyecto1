@@ -1,4 +1,4 @@
-@keyframes rotation {
+@-webkit-keyframes rotation {
   from{
       rotate: 0deg;
   }
@@ -68,6 +68,8 @@
   z-index: -2;
   rotate: -15deg;
   animation: rotation 20s infinite;
+  -webkit-animation: rotation 20s infinite;
+   animation: rotation 20s infinite;
   }
   /* here we have two examples of selectors in order to remind you how to set styles for elements */
   .header__square-pic {
@@ -83,6 +85,5 @@
      height: 31px;
      left: 64px;
      top: 30px;
-     background-image: url(/images/logo_place_header.png);
      position: absolute;
    }
