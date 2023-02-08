@@ -69,7 +69,6 @@
   rotate: -15deg;
   animation: rotation 20s infinite;
   -webkit-animation: rotation 20s infinite;
-   animation: rotation 20s infinite;
   }
   /* here we have two examples of selectors in order to remind you how to set styles for elements */
   .header__square-pic {
