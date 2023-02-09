@@ -17,14 +17,14 @@
     min-width: 784px;
     display: flex;   
   }
-  .oakley-two-columns-brief{
+  .oakley-two-columns__brief{
     align-content: center;
     margin-top: 0px;
     margin-bottom: 0px;
     width: 175px;
     justify-content: right;
   }
-  .oakley-two-columns-brief-text{
+  .oakley-two-columns__brief-text{
     text-align: left;
     width: 130px;
     margin-left: 10px;
@@ -33,7 +33,7 @@
     font-weight: normal;
     color: #2f80ed;
   }
-  .oakley-two-columns-main-text{
+  .oakley-two-columns__main-text{
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 80px;

@@ -11,14 +11,14 @@
     display: flex;
     align-content: space-between;
   }
-  .description-two-columns-brief{
+  .description-two-columns__brief{
     margin-top: 20px;
     width: 175px;
     font-size: 18px;
     font-weight: normal;
     color: #2f80ed;
   }
-  .description-two-columns-main-text{
+  .description-two-columns__main-text{
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
@@ -30,9 +30,9 @@
     font-size: 24px;
     font-weight: bold;
   }
-  .description-two-columns-paragraph-1{
+  .description-two-columns__paragraph-1{
     margin-bottom: 30px;
   }
-  .description-two-columns-paragraph-2{
+  .description-two-columns__paragraph-2{
     margin-bottom:30px;
   }
