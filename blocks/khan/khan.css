@@ -25,12 +25,12 @@
     width: 790px;
     margin-top: 50px;
   }
-  .khan-quote__author{
+  .khan-quote-author{
     line-height: 1.15;
     font-size: 24px;
     font-weight: bold;
   }
-  .khan-quote__author-subline{
+  .khan-quote-author-subline{
     line-height: 1.15;
     font-size: 24px;
     margin-top: -10px;
